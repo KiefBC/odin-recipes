@@ -1,0 +1,16 @@
+img:hover {
+    opacity: 75%;
+}
+
+a:hover {
+    color: brown;
+}
+
+a {
+    color: #ffffff;
+}
+
+body {
+    background-color: #382f2f;
+    color: coral;
+}
